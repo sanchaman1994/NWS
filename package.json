@@ -1,6 +1,5 @@
 {
   "name": "portfolio",
-<<<<<<< HEAD
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -21,14 +20,4 @@
     "eslint-config-next": "15.1.6",
     "@eslint/eslintrc": "^3"
   }
-=======
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": ""
->>>>>>> 0555b885cb7ebf88a818fbd91ec47ea3bbe6a1ba
 }
